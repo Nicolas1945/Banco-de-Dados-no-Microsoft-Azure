@@ -46,5 +46,3 @@ Custos: verifique planos gratuitos ou de baixo custo para testes e aprendizado.
 
 Conexão Externa: use a cadeia de conexão (connection string) informada pelo portal para conectar via SQL Server Management Studio ou Azure Data Studio.
 
-Observação:
-Também estão disponíveis capturas de tela na pasta /images, ilustrando o passo a passo da criação da instância.
